@@ -1,4 +1,5 @@
-def fenge(fenge_word):#分割字符串
+#分割字符串
+def fenge(fenge_word):
   fenge_word_n=len(fenge_word)-1
   fenge_list1=[]
   while fenge_word_n>=0:
@@ -8,7 +9,8 @@ def fenge(fenge_word):#分割字符串
   fenge_list1.reverse()
   return fenge_list1
 
-def vague(vague_fst_word,vague_sec_word):  #比较相似度
+#比较相似度
+def vague(vague_fst_word,vague_sec_word):  
   vague_fst_word=fenge(vague_fst_word)
   vague_sec_word=str(vague_sec_word)
   vague_sec_word=fenge(vague_sec_word)

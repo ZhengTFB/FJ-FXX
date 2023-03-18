@@ -13,5 +13,5 @@ FJ-FXX是正钛汾钸在2023.3.18发布的数据库型机器人框架
 
 ### 2.代码介绍
 #### 1.使用异步函数、多线程实现快到起飞地运行效率
-`import threading
-import asyncio`
+    import threading   
+    import asyncio`

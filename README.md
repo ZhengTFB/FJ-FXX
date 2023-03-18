@@ -1,5 +1,5 @@
-# FJ-FXX
-#### &#x1F341 一个数据库型机器人
+# ✨FJ-FXX 
+#### 一个数据库型机器人
 ![alt FJ-FXX](https://github.com/zhengtfb/FJ-FXX/blob/main/FJ-FXX%E5%AE%A3%E4%BC%A0%E5%9B%BE.png)
 
 ### 0.名字的由来
@@ -43,5 +43,5 @@ FJ-FXX是正钛汾钸在2023.3.18发布的数据库型机器人框架
 QQ：3568869968    Discord：#2333    
 昵称:正钛汾钸
 
-
-    
+- [x] FJ-FXX 1.0已完成
+- [ ] FJ-FXX重写计划    

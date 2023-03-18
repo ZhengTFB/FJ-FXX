@@ -20,7 +20,7 @@ else:
     import logging
     logging.disable(logging.WARNING)
 
-# 没有安装自动安装 Levenshtein 库
+#没有安装自动安装 Levenshtein 库
 if not It_Ck.module_exists('Levenshtein'):
     print('检测到你未安装 Levenshtein 库，正在自动安装，请稍等...')
     subprocess.run(['pip', 'install', 'python-Levenshtein'])
@@ -79,7 +79,7 @@ class Bot:
 meg.yanshi('===============================================',0.007)
 meg.yanshi('''欢迎使用FJ-FXX！
 这是一个免费、开源的数据库型的ai
-开源地址：
+开源地址：https://github.com/zhengtfb/FJ-FXX/
 版本号：1.0.1   作者：正钛汾钸
 如果你想加入这个智障机器人的重写计划，欢迎qq联系作者:3568869968''',0.01)
 meg.yanshi('===============================================',0.007)

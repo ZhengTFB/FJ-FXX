@@ -35,9 +35,9 @@ FJ-FXX是正钛汾钸在2023.3.18发布的数据库型机器人框架
         # 引入文本相似度匹配库
         import Levenshtein
 ### 提供Levenshtein和vague两种文本比对方式
-- Levenshtein对语义识别敏感
+- Levenshtein对语义识别敏感    
     import Levenshtein
-- vague注重文本自身相似度比较
+- vague注重文本自身相似度比较    
     def fenge(fenge_word):#分割字符串
         fenge_word_n=len(fenge_word)-1
         fenge_list1=[]

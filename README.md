@@ -1,5 +1,5 @@
 # FJ-FXX
-#### 一个数据库型机器人
+#### &#x1F341一个数据库型机器人
 ![alt FJ-FXX](https://github.com/zhengtfb/FJ-FXX/blob/main/FJ-FXX%E5%AE%A3%E4%BC%A0%E5%9B%BE.png)
 
 ### 0.名字的由来
@@ -34,10 +34,14 @@ FJ-FXX是正钛汾钸在2023.3.18发布的数据库型机器人框架
     else:
         # 引入文本相似度匹配库
         import Levenshtein
-### 提供Levenshtein和vague两种文本比对方式
+### 3.提供Levenshtein和vague两种文本比对方式
 - Levenshtein对语义识别敏感    
-    import Levenshtein
 - vague注重文本自身相似度比较    
+### 4.FJ-FXX重写计划
+这次手残了，写的太烂了    
+欢迎加入我的重写计划    
+QQ：3568869968    Discord：#2333    
+昵称:正钛汾钸
 
 
     

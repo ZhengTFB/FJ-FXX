@@ -17,6 +17,7 @@ FJ-FXX是正钛汾钸在2023.3.18发布的数据库型机器人框架
     import asyncio
 #### 2.库安装检测
 自带库检测功能，未安装的库自动安装
+
     # 没有安装自动安装 jieba 库
     if not It_Ck.module_exists('jieba'):
         print('检测到你未安装 jieba 库，正在自动安装，请稍等...')
